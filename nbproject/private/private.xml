@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="programa-php">
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/control/ProcurarDominioRelatorio.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/control/ProcurarPagina2.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/control/ExcluirDominio.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/control/SalvarPessoa.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/home.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/Pessoa.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/recursos/js/ajax/Pagina.js</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/recursos/js/ajax/Pessoa.js</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/control/ProcurarPessoaRelatorio.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/control/ExcluirPessoa.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/formProcurarDominio.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/formProcurarPessoa.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/control/ProcurarNivel3.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/recursos/js/ajax/Dominio.js</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/control/ProcurarDominio.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/control/ConsultaWhois.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/control/ProcurarPessoa.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/control/ProcurarPerfilAcesso.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/Dominio.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/Nivel.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/formPessoa.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/Logout.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/model/Pessoa.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/model/Dominio.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/model/Conexao.php</file>
+            <file>file:/C:/xampp/htdocs/ImportacaoWhois/visao/header.php</file>
+        </group>
+    </open-files>
+</project-private>
